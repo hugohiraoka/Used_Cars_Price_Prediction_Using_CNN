@@ -1,0 +1,1 @@
+Predicting Used Cars Prices using CNN, https://github.com/hugohiraoka/Used_Cars_Price_Prediction_Using_CNN/tree/main, https://github.com/hugohiraoka/Used_Cars_Price_Prediction_Using_CNN/blob/main/Readme.md
